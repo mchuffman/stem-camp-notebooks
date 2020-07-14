@@ -52,11 +52,11 @@ This is discussed in the other PDF. After you've seen that, come back here. Reca
 
 Let's revisit the cancer example. The facts we are assuming: among women over age 40, 1% have cancer (note: we are making this number up).  90% of women with cancer will test positive on a screening test. 8% of women without cancer will also test positive ("false positives").  If you are a woman over age 40 and have a positive result from the test, does this mean there is a 90% chance you have cancer?
 
-Let's suppose we have 10,000 women over age 40. We expect about 1000 (1%) of them to have cancer. We can use that to fill in the following chart (which will list expected outcomes):
+Let's suppose we have 10,000 women over age 40. We expect about 100 (1%) of them to have cancer. We can use that to fill in the following chart (which will list expected outcomes):
 
 |   | positive result  | negative result   |  (combined) |
 | --- | --- | --- | --- |
-| **have cancer**  |   |   | 1,000  |
+| **have cancer**  |   |   | 100  |
 | **no cancer**  |   |   | 9,900  |
 | **(combined)**  |   |   | 10,000  |
 
@@ -69,7 +69,7 @@ Now, fill in the rest of the table. When you're done, check that you get somethi
 
 |   | positive result  | negative result   |  (combined) |
 | --- | --- | --- | --- |
-| **have cancer**  | 90  | 10  | 1,000  |
+| **have cancer**  | 90  | 10  | 100  |
 | **no cancer**  | 792  | 9,108  | 9,900  |
 | **(combined)**  | 882  | 9,118  | 10,000  |
 
