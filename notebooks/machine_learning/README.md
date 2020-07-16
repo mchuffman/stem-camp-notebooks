@@ -16,7 +16,7 @@ This folder has a few sub-folders:
   - You might want to first see the [Decision_Tree_Lesson.pdf](Decision_Tree_Lesson.pdf)
 
 - [Intro Regression.ipynb](Intro%20Regression.ipynb)
-  - Building height example, but dataset is missing
+  - Building height example
   - [08_Linear_Regression_Bias_Variance.ipynb](08_Linear_Regression_Bias_Variance.ipynb)
 
 ### Supplemental notebooks
