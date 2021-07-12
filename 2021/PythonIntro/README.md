@@ -3,10 +3,10 @@
 For Monday
 
 Start with these labs:
-1. [lab01](lab01.ipynb)  (labs 1 and 2 are taken from Berkeley's [data8](http://data8.org/) )
-2. [lab02](lab02.ipynb)
-3. [Plotting](Plotting.ipynb)
-4. [Containers](Containers.ipynb)
+1. [lab01](lab01.ipynb)  (labs 1 and 2 are taken from Berkeley's [data8](http://data8.org/) ) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/lab01.ipynb))
+2. [lab02](lab02.ipynb)([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/lab02.ipynb))
+3. [Plotting](Plotting.ipynb)([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/Plotting.ipynb))
+4. [Containers](Containers.ipynb)([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/Containers.ipynb))
 
  If you finish these, then try
  
