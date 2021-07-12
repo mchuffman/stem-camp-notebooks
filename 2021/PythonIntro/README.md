@@ -11,8 +11,8 @@ Start with these labs:
  If you finish these, then try
  
 5. [Guess the Number Game](Guess%20the%20Number%20Game.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/Guess%20the%20Number%20Game.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/Guess%20the%20Number%20Game.ipynb))
-6. [Pig Game](PigGame.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/notebooks/Python_Intro_Game_Notebooks/PigGame.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/PigGame.ipynb))
-   - [Solutions](PigGame_solutions.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/notebooks/Python_Intro_Game_Notebooks/PigGame_solutions.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/PigGame_solutions.ipynb))
+6. [Pig Game](PigGame.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/PigGame.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/PigGame.ipynb))
+   - [Solutions](PigGame_solutions.ipynb) ([colab link](https://colab.research.google.com/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/PigGame_solutions.ipynb), or [view notebook via nbviewer](https://nbviewer.jupyter.org/github/cu-applied-math/stem-camp-notebooks/blob/master/2021/PythonIntro/PigGame_solutions.ipynb))
 8. See more activities in the [PythonAdvanced](../PythonAdvanced) folder
 9. Ask instructors about numpy or pandas or tensorflow or PyTorch or Scikit-learn
 10. Ask instructors about debugging, coding best practices, using a REPL
